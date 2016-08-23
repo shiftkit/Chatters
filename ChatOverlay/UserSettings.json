@@ -1,0 +1,11 @@
+{
+  "ChannelName": "shiftkit" ,
+  "FontSize": "Medium" ,
+  "BgColor": "#ff400040",
+  "FontColor": "White",
+  "Opacity": "50",
+  "ShowUserList": "true",
+  "ClickThrough": "false",
+  "WindowPosition": "",
+  "WindowSize" : "" 
+}
